@@ -6,7 +6,7 @@
 </div>
 
 <p align="center">
-  <img src="https://giphy.com/gifs/codeit-official-coding-helloworld-codeit-h408T6Y5GfmXBKW62l.gif" width="320" height="350">
+  <img src="https://media.giphy.com/media/HscDLzkO8EOTmgkhQP/giphy.gif" width="320" height="350">
   <hr style="border-top: 1px solid #ffffff; margin-top: 10px; margin-bottom: 10px;">
 </p>
 
@@ -24,3 +24,4 @@
   <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++" width="40"/>
   <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" width="40"/>
 </div>
+
