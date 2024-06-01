@@ -7,11 +7,12 @@
 
 <p align="center">
   <img src="https://media.giphy.com/media/HscDLzkO8EOTmgkhQP/giphy.gif" width="320" height="350">
+  <hr style="border-top: 1px solid #ffffff; margin-top: 10px; margin-bottom: 10px;">
 </p>
 
 
 <!-- Lista de lenguajes de programación -->
- <hr style="border-top: 1px solid #ffffff; margin-top: 10px; margin-bottom: 10px;">
+ 
 #### Programming Languages
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
