@@ -1,6 +1,6 @@
 ### Hi there, I'm Araceli Alvarado 👋
 
-#### Lenguajes de Programación
+#### Programming Languages
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
   <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" width="64"/>
