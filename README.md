@@ -11,6 +11,9 @@
   <img src="https://img.icons8.com/color/48/000000/ruby-programming-language.png" alt="Ruby" width="32"/>
   <img src="https://img.icons8.com/color/48/000000/golang.png" alt="Go" width="32"/>
   <img src="https://img.icons8.com/color/48/000000/swift.png" alt="Swift" width="32"/>
+  <img src="https://img.icons8.com/color/48/000000/sql.png" alt="SQL" width="32"/>
+  <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React" width="32"/>
+  <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js" width="32"/>
 </div>
 
 
