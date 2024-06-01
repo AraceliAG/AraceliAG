@@ -1,3 +1,7 @@
+<div style="background-color: #D1C4E9; padding: 10px; text-align: center;">
+  <h1 style="margin: 0;">Bienvenido a mi perfil</h1>
+</div>
+<hr style="border: 1px solid #D1C4E9;">
 ### Hi there, I'm Araceli Alvarado 👋
 
 #### Programming Languages
@@ -11,6 +15,7 @@
   <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++" width="40"/>
   <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" width="40"/>
 </div>
+
 
 
 
