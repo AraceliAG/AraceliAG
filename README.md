@@ -6,7 +6,7 @@
 </div>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/HscDLzkO8EOTmgkhQP/giphy.gif" width="320" height="240">
+  <img src="https://media.giphy.com/media/HscDLzkO8EOTmgkhQP/giphy.gif" width="320" height="400">
 </p>
 
 
