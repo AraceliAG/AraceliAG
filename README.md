@@ -11,6 +11,7 @@
 
 
 <!-- Lista de lenguajes de programación -->
+ <hr style="border-top: 1px solid #ffffff; margin-top: 10px; margin-bottom: 10px;">
 #### Programming Languages
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
