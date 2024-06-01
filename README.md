@@ -2,7 +2,7 @@
   <h1 style="margin: 0;">Bienvenido a mi perfil</h1>
 </div>
 <hr style="border: 1px solid #D1C4E9;">
-<h1 Hi there, I'm Araceli Alvarado 👋>
+<h1 >Hi there, I'm Araceli Alvarado 👋</h1>
 
 #### Programming Languages
 
