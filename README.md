@@ -5,6 +5,8 @@
   <hr style="border-top: 1px solid #ffffff; margin-top: 10px; margin-bottom: 10px;">
 </div>
 
+![Alt Text](https://media.giphy.com/media/HscDLzkO8EOTmgkhQP/giphy.gif)
+
 <!-- Lista de lenguajes de programación -->
 #### Programming Languages
 
