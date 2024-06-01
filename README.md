@@ -1,8 +1,4 @@
-<div style="background-color: #D1C4E9; padding: 10px; text-align: center;">
-  <h1 style="margin: 0;">Bienvenido a mi perfil</h1>
-</div>
-<hr style="border: 1px solid #D1C4E9;">
-<h1 style="margin: 0 >Hi there, I'm Araceli Alvarado 👋</h1>
+### Welcome to my Profile 👋
 
 #### Programming Languages
 
