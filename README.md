@@ -9,6 +9,7 @@
   <img src="https://media.giphy.com/media/1u01IRKm3cKUH4GU1U/giphy.gif" width="320" height="350">
   <hr style="border-top: 1px solid #ffffff; margin-top: 10px; margin-bottom: 10px;">
 </p>
+<iframe src="https://giphy.com/embed/qQRfz2VfUbDeebczif" width="480" height="384" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/smart-working-work-hard-qQRfz2VfUbDeebczif">via GIPHY</a></p>
 
 
 <!-- Lista de lenguajes de programación -->
