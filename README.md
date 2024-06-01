@@ -1,9 +1,5 @@
 <!-- Contenedor de bienvenida -->
 
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="854" height="200" viewBox="0 0 854 200">
-  
-</svg>
-
 <div style="background-color: #6a5acd; color: #ffffff; padding: 20px; border-radius: 8px; margin-bottom: 20px;">
   <h3>Welcome to my Profile 👋</h3>
   <hr style="border-top: 1px solid #ffffff; margin-top: 10px; margin-bottom: 10px;">
