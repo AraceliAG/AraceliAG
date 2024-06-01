@@ -1,5 +1,9 @@
-### Welcome to my Profile 👋
+<!-- Contenedor de bienvenida -->
+<div style="background-color: #6a5acd; color: #ffffff; padding: 20px; border-radius: 8px; margin-bottom: 20px;">
+  <h3>Welcome to my Profile 👋</h3>
+</div>
 
+<!-- Lista de lenguajes de programación -->
 #### Programming Languages
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
