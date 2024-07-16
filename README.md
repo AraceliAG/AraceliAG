@@ -1,7 +1,7 @@
 <!-- Contenedor de bienvenida -->
 
 <div style="background-color: #6a5acd; color: #ffffff; padding: 20px; border-radius: 8px; margin-bottom: 100px;">
-  <h3 style="font-size: 36px; >Welcome to my Profile 👩‍💻 </h3>
+  <h3>Welcome to my Profile 👩‍💻 </h3>
   <hr style="border-top: 1px solid #ffffff; margin-top: 10px; margin-bottom: 10px;">
 </div>
 
