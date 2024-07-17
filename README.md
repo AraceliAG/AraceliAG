@@ -19,6 +19,6 @@
   <img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png" alt="C#" width="40"/>
   <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++" width="40"/>
   <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" width="40"/>
-  <img src="https://img.icons8.com/color/48/000000/sql.png" alt="SQL" width="45"/>
+  <img src="https://img.icons8.com/color/48/000000/sql.png" alt="SQL" width="40"/>
   <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js" width="50"/>
 </div>
