@@ -6,8 +6,9 @@
 </div>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/l7zabeVIt16efVp6wg/giphy.gif" width="320" height="350">
-  <hr style="border-top: 1px solid #ffffff; margin-top: 10px; margin-bottom: 10px;">
+  <div id="header" align="center">
+  <img src="https://media.giphy.com/media/HQHwvSBSy7s0AXOlWt/giphy.gif" width="200"/>
+</div>
 </p>
 
 <!-- Lista de lenguajes de programación -->
