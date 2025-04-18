@@ -21,11 +21,19 @@
   <img src="https://img.icons8.com/color/48/000000/sql.png" alt="SQL" width="45"/>
   
 </div>
- <hr style="border-top: 1px solid #ffffff; margin-top: 10px; margin-bottom: 10px;">
-<div id="badges">
+
+<hr style="border-top: 1px solid #ffffff; margin-top: 10px; margin-bottom: 10px;">
+
+<div id="badges" style="text-align: center;">
   <a href="https://www.linkedin.com/in/araceli-alvarado-5b20742a5" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-</a>
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  
+  <a href="https://discord.com/users/tu-id" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge"/>
+  </a>
+</div>
+
 
   
 </div>
