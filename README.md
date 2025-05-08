@@ -19,11 +19,13 @@
   <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java" width="45"/>
   <img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png" alt="C#" width="45"/>
   <img src="https://img.icons8.com/color/48/000000/typescript.png" alt="TypeScript" width="45"/>
-  <img src="https://img.icons8.com/color/48/000000/sql.png" alt="SQL" width="45"/>
+
   <h3>Frameworks & Tools</h3>
   <img src="https://img.icons8.com/color/48/000000/spring-logo.png" alt="Spring" width="45"/>
   <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js" width="45"/>
   <img src="https://img.icons8.com/color/48/000000/angularjs.png" alt="Angular" width="45"/>
+  <h3>Database Languages</h3>
+    <img src="https://img.icons8.com/color/48/000000/sql.png" alt="SQL" width="45"/>
 </div>
 
 <hr style="border-top: 1px solid #ffffff; margin-top: 10px; margin-bottom: 10px;">
