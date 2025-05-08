@@ -22,7 +22,7 @@
   <img src="https://img.icons8.com/color/48/000000/sql.png" alt="SQL" width="45"/>
   <img src="https://img.icons8.com/color/48/000000/angularjs.png" alt="Angular" width="45"/>
   <img src="https://img.icons8.com/color/48/000000/typescript.png" alt="TypeScript" width="45"/>
-  <img src="https://img.icons8.com/color/48/000000/lua-logo.png" alt="Lua" width="45"/>
+  <img src="https://img.icons8.com/color/48/000000/lua.png" alt="Lua" width="45"/>
   
 </div>
 
