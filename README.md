@@ -22,9 +22,11 @@
 
   <h3>Frameworks & Tools</h3>
   <img src="https://img.icons8.com/color/48/000000/spring-logo.png" alt="Spring" width="45"/>
-  <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js" width="45"/>
-  <img src="https://img.icons8.com/color/48/000000/angularjs.png" alt="Angular" width="45"/>
   <img src="https://img.icons8.com/color/48/000000/net-framework.png" alt=".NET" width="45"/>
+  <img src="https://img.icons8.com/color/48/000000/angularjs.png" alt="Angular" width="45"/>
+  <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js" width="45"/>
+ 
+  
 
   <h3>Database</h3>
     <img src="https://img.icons8.com/color/48/000000/sql.png" alt="SQL" width="45"/>
