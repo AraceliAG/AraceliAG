@@ -25,6 +25,8 @@
   <img src="https://img.icons8.com/color/48/000000/net-framework.png" alt=".NET" width="45"/>
   <img src="https://img.icons8.com/color/48/000000/angularjs.png" alt="Angular" width="45"/>
   <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js" width="45"/>
+  <img src="https://img.icons8.com/color/48/000000/uipath.png" alt="UiPath" width="45"/> 
+  <img src="https://img.icons8.com/color/48/000000/ms-excel.png" alt="Excel VBA" width="45"/>
  
   
 
