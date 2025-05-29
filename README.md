@@ -30,7 +30,14 @@
  <!-- <img src="https://img.icons8.com/color/48/000000/uipath.png" alt="UiPath" width="45"/>  -->
 
  
-  
+    <!-- Sección de texto a la derecha -->
+  <div style="max-width: 25%; text-align: right;">
+    <p style="font-size: 16px; margin: 0;">
+      💻 Passionate about software development.<br/>
+      🚀 Always learning new technologies.<br/>
+      🌎 Open to remote work opportunities!
+    </p>
+  </div>
 
   <h3>Database</h3>
     <img src="https://img.icons8.com/color/48/000000/sql.png" alt="SQL" width="45"/>
