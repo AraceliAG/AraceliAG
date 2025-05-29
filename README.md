@@ -1,7 +1,8 @@
 <!-- Contenedor de bienvenida -->
 
 <div style="background-color: #D8BFD8; color: #ffffff; padding: 20px; border-radius: 8px; margin-bottom: 100px;">
-  <h2>Welcome to my Profile 👩‍💻 </h2>
+  <h1 align="center">Hi 👋, I'm Araceli</h1>
+<h3 align="center">A passionate Sotware developer and data analyst</h3>
   <hr style="border-top: 1px solid #ffffff; margin-top: 10px; margin-bottom: 10px;">
 </div>
 
@@ -37,6 +38,7 @@
 
 <hr style="border-top: 1px solid #ffffff; margin-top: 10px; margin-bottom: 10px;">
 
+<h3 align="left">Connect with me:</h3>
 <div id="badges" style="text-align: center;">
   <a href="https://www.linkedin.com/in/araceli-alvarado-5b20742a5" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -45,14 +47,6 @@
   
 </div>
 
-<h1 align="center">Hi 👋, I'm Araceli</h1>
-<h3 align="center">A passionate Sotware developer and data analyst</h3>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/araceli-alvarado-5b20742a5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/araceli-alvarado-5b20742a5" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/https://www.hackerrank.com/profile/araceli888alvar1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="https://www.hackerrank.com/profile/araceli888alvar1" height="30" width="40" /></a>
-<a href="https://discord.gg/https://discordapp.com/users/588933352690548736" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discordapp.com/users/588933352690548736" height="30" width="40" /></a>
-</p>
 
 
