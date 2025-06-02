@@ -1,4 +1,4 @@
-<!-- Contenedor de bienvenida -->
+<!-- Contenedor de bienvenida :) -->
 
 <div style="background-color: #D8BFD8; color: #ffffff; padding: 20px; border-radius: 8px; margin-bottom: 100px;">
   <h1 align="center">Hi 👋, I'm Araceli</h1>
