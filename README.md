@@ -1,7 +1,7 @@
 <!-- Contenedor de bienvenida :) -->
 
 <div style="background-color: #D8BFD8; color: #ffffff; padding: 20px; border-radius: 8px; margin-bottom: 100px;">
-  <h1 align="center">Hi 👋, I'm Araceli Alvarado</h1>
+  <h1 align="center">WELCOME TO MY PROFILE!</h1>
 <h3 align="center">A passionate Sotware developer and data analyst</h3>
   <hr style="border-top: 1px solid #ffffff; margin-top: 10px; margin-bottom: 10px;">
 </div>
