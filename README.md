@@ -45,6 +45,7 @@
     <img src="https://img.icons8.com/color/48/000000/sql.png" alt="SQL" width="45"/>
     <img src="https://img.icons8.com/color/48/000000/sql-server.png" alt="SQL Server" width="45"/>
 <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="MySQL" width="45"/>
+<img src="https://img.icons8.com/color/48/000000/sql-server-2017.png" alt="SQL Server" width="45"/>
 </div>
 
 <hr style="border-top: 1px solid #ffffff; margin-top: 10px; margin-bottom: 10px;">
