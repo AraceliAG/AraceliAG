@@ -4,11 +4,7 @@
   <hr style="border-top: 1px solid #ffffff; margin-top: 10px; margin-bottom: 10px;">
 </div>
 
-<p align="center">
-  <div id="header" align="center">
-    <img src="https://media.giphy.com/media/HQHwvSBSy7s0AXOlWt/giphy.gif" width="200"/>
-  </div>
-</p>
+
 
 <!-- Sección de tecnologías -->
 <div style="display: flex; flex-wrap: wrap; gap: 15px; align-items: center; justify-content: center;">
@@ -62,6 +58,12 @@
   <a href="https://github.com/AraceliAG" target="https://github.com/AraceliAG">
     <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
   </a>
+
+  <p align="center">
+  <div id="header" align="center">
+    <img src="https://media.giphy.com/media/HQHwvSBSy7s0AXOlWt/giphy.gif" width="200"/>
+  </div>
+</p>
  
 </div>
 
