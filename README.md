@@ -20,12 +20,14 @@
    <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" width="45"/>
   <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java" width="45"/>
  
-  <h3>Frameworks & Tools</h3>
+  <h3>Frameworks</h3>
   
    <img src="https://img.icons8.com/color/48/000000/angularjs.png" alt="Angular" width="45"/>
    <img src="https://img.icons8.com/color/48/000000/net-framework.png" alt=".NET" width="45"/>
-   <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" width="45"/>
    
+ <h3>Tools</h3>
+   <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" width="45"/>
+   <img src="https://img.icons8.com/color/48/000000/linux.png" alt="Linux" width="45"/>
    <h3>Cloud</h3>
 
 <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png" alt="AWS" width="45"/>
