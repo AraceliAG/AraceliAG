@@ -1,7 +1,7 @@
-<div style="background-color: #6A5ACD; color: #ffffff; padding: 20px; border-radius: 8px; margin-bottom: 50px;">
-  <h1 align="center">WELCOME TO MY PROFILE!</h1>
+<div style="background-color: #4B0082; color: #ffffff; padding: 30px; border-radius: 12px; margin-bottom: 40px;">
+  <h1 align="center">Welcome to My Profile!</h1>
   <h3 align="center">Passionate Software Developer & Data Analyst</h3>
-  <hr style="border-top: 1px solid #ffffff; margin-top: 10px; margin-bottom: 10px;">
+  <hr style="border-top: 1px solid #ffffff; margin-top: 15px; margin-bottom: 15px;">
 </div>
 
 <p align="center">
@@ -10,59 +10,61 @@
   </div>
 </p>
 
-<!-- Sección de tecnologías en 2 columnas -->
-<div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 20px; align-items: center; justify-items: center;">
-  <!-- Programming Languages -->
-  <div>
-    <h3>Programming Languages</h3>
-    <img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png" alt="C#" width="45"/>
-    <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" width="45"/>
-    <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java" width="45"/>
+<!-- Sección de Tecnologías -->
+<div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(220px, 1fr)); gap: 20px; align-items: center; justify-items: center; margin-top: 30px;">
+  
+  <!-- Lenguajes de Programación -->
+  <div style="background-color: #fff; color: #333; padding: 20px; border-radius: 8px; text-align: center; box-shadow: 0 4px 12px rgba(0,0,0,0.1);">
+    <h4>Programming Languages</h4>
+    <p>C# | Python | Java</p>
   </div>
 
   <!-- Frameworks -->
-  <div>
-    <h3>Frameworks</h3>
-    <img src="https://img.icons8.com/color/48/000000/angularjs.png" alt="Angular" width="45"/>
-    <img src="https://img.icons8.com/color/48/000000/net-framework.png" alt=".NET" width="45"/>
+  <div style="background-color: #fff; color: #333; padding: 20px; border-radius: 8px; text-align: center; box-shadow: 0 4px 12px rgba(0,0,0,0.1);">
+    <h4>Frameworks</h4>
+    <p>Angular | .NET</p>
   </div>
 
-  <!-- Tools -->
-  <div>
-    <h3>Tools</h3>
-    <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" width="45"/>
-    <img src="https://img.icons8.com/color/48/000000/linux.png" alt="Linux" width="45"/>
+  <!-- Herramientas -->
+  <div style="background-color: #fff; color: #333; padding: 20px; border-radius: 8px; text-align: center; box-shadow: 0 4px 12px rgba(0,0,0,0.1);">
+    <h4>Tools</h4>
+    <p>Git | Linux</p>
   </div>
 
   <!-- Cloud -->
-  <div>
-    <h3>Cloud</h3>
-    <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png" alt="AWS" width="45"/>
+  <div style="background-color: #fff; color: #333; padding: 20px; border-radius: 8px; text-align: center; box-shadow: 0 4px 12px rgba(0,0,0,0.1);">
+    <h4>Cloud</h4>
+    <p>AWS (EC2, Lambda, S3)</p>
   </div>
 
   <!-- Database -->
-  <div>
-    <h3>Database</h3>
-    <img src="https://img.icons8.com/color/48/000000/sql.png" alt="SQL" width="45"/>
+  <div style="background-color: #fff; color: #333; padding: 20px; border-radius: 8px; text-align: center; box-shadow: 0 4px 12px rgba(0,0,0,0.1);">
+    <h4>Database</h4>
+    <p>SQL</p>
   </div>
 </div>
 
-<hr style="border-top: 1px solid #ffffff; margin-top: 10px; margin-bottom: 10px;">
+<hr style="border-top: 1px solid #ffffff; margin-top: 30px; margin-bottom: 30px;">
 
-<!-- Contribuciones y estadísticas -->
+<!-- Contribuciones y Estadísticas -->
 <div style="text-align: center;">
   <h3>My GitHub Stats</h3>
-  <img src="https://github-readme-stats.vercel.app/api?username=AraceliAG&show_icons=true&theme=radical" alt="My GitHub Stats">
-  <hr style="border-top: 1px solid #ffffff; margin-top: 10px; margin-bottom: 10px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=AraceliAG&show_icons=true&theme=radical" alt="My GitHub Stats" style="border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);">
+  <hr style="border-top: 1px solid #ffffff; margin-top: 30px; margin-bottom: 30px;">
 </div>
 
-<!-- Conectar en dos columnas -->
-<h3 align="left">Connect with me:</h3>
-<div id="badges" style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 15px; text-align: center;">
-  <a href="https://www.linkedin.com/in/araceli-ag3" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+<!-- Conectar -->
+<h3 align="center" style="font-size: 24px; color: #fff;">Connect with Me</h3>
+<div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap; margin-bottom: 30px;">
+  <a href="https://www.linkedin.com/in/araceli-ag3" target="_blank" style="text-decoration: none;">
+    <div style="background-color: #0077b5; color: white; padding: 12px 24px; border-radius: 8px; font-size: 16px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+      LinkedIn
+    </div>
   </a>
-  <a href="https://github.com/AraceliAG" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
+  <a href="https://github.com/AraceliAG" target="_blank" style="text-decoration: none;">
+    <div style="background-color: #000000; color: white; padding: 12px 24px; border-radius: 8px; font-size: 16px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+      GitHub
+    </div>
   </a>
 </div>
+
