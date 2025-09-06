@@ -44,7 +44,7 @@
 <!-- Conectar -->
 <h3 align="left">Connect with me:</h3>
 <div id="badges" style="text-align: center;">
-  <a href="https://www.linkedin.com/in/araceli-alvarado-5b20742a5" target="_blank">
+  <a href="www.linkedin.com/in/araceli-ag3" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <!-- Otros enlaces de redes sociales -->
@@ -57,5 +57,5 @@
 <!-- GitHub Activity -->
 <div style="text-align: center; margin-top: 30px;">
   <h3>Recent Activity</h3>
-  <img src="https://activity-graph.herokuapp.com/graph?username=tu-usuario&bg_color=ffffff&color=000000&line=3b0a45&point=ffb3b3&area=true&area_color=3e4b62" alt="My Activity Graph" width="100%"/>
+  <img src="https://activity-graph.herokuapp.com/graph?username=AraceliAG&bg_color=ffffff&color=000000&line=3b0a45&point=ffb3b3&area=true&area_color=3e4b62" alt="My Activity Graph" width="100%"/>
 </div>
