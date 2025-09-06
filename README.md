@@ -54,8 +54,3 @@
  
 </div>
 
-<!-- GitHub Activity -->
-<div style="text-align: center; margin-top: 30px;">
-  <h3>Recent Activity</h3>
-  <img src="https://activity-graph.herokuapp.com/graph?username=AraceliAG&bg_color=ffffff&color=000000&line=3b0a45&point=ffb3b3&area=true&area_color=3e4b62" alt="My Activity Graph" width="100%"/>
-</div>
