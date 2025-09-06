@@ -10,38 +10,54 @@
   </div>
 </p>
 
-<!-- Sección de Tecnologías -->
+<!-- Sección de Tecnologías con colores -->
 <div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(220px, 1fr)); gap: 20px; align-items: center; justify-items: center; margin-top: 30px;">
-  
+
   <!-- Lenguajes de Programación -->
-  <div style="background-color: #fff; color: #333; padding: 20px; border-radius: 8px; text-align: center; box-shadow: 0 4px 12px rgba(0,0,0,0.1);">
-    <h4>Programming Languages</h4>
-    <p>C# | Python | Java</p>
+  <div style="background-color: #7f52ff; color: #fff; padding: 20px; border-radius: 8px; text-align: center; box-shadow: 0 4px 12px rgba(0,0,0,0.1);">
+    <h4>C#</h4>
+  </div>
+
+  <!-- Lenguajes de Programación -->
+  <div style="background-color: #306998; color: #fff; padding: 20px; border-radius: 8px; text-align: center; box-shadow: 0 4px 12px rgba(0,0,0,0.1);">
+    <h4>Python</h4>
+  </div>
+
+  <!-- Lenguajes de Programación -->
+  <div style="background-color: #007396; color: #fff; padding: 20px; border-radius: 8px; text-align: center; box-shadow: 0 4px 12px rgba(0,0,0,0.1);">
+    <h4>Java</h4>
   </div>
 
   <!-- Frameworks -->
-  <div style="background-color: #fff; color: #333; padding: 20px; border-radius: 8px; text-align: center; box-shadow: 0 4px 12px rgba(0,0,0,0.1);">
-    <h4>Frameworks</h4>
-    <p>Angular | .NET</p>
+  <div style="background-color: #dd1b16; color: #fff; padding: 20px; border-radius: 8px; text-align: center; box-shadow: 0 4px 12px rgba(0,0,0,0.1);">
+    <h4>Angular</h4>
   </div>
 
-  <!-- Herramientas -->
-  <div style="background-color: #fff; color: #333; padding: 20px; border-radius: 8px; text-align: center; box-shadow: 0 4px 12px rgba(0,0,0,0.1);">
-    <h4>Tools</h4>
-    <p>Git | Linux</p>
+  <!-- Frameworks -->
+  <div style="background-color: #512BD4; color: #fff; padding: 20px; border-radius: 8px; text-align: center; box-shadow: 0 4px 12px rgba(0,0,0,0.1);">
+    <h4>.NET</h4>
+  </div>
+
+  <!-- Tools -->
+  <div style="background-color: #F05032; color: #fff; padding: 20px; border-radius: 8px; text-align: center; box-shadow: 0 4px 12px rgba(0,0,0,0.1);">
+    <h4>Git</h4>
+  </div>
+
+  <!-- Tools -->
+  <div style="background-color: #2E2A2A; color: #fff; padding: 20px; border-radius: 8px; text-align: center; box-shadow: 0 4px 12px rgba(0,0,0,0.1);">
+    <h4>Linux</h4>
   </div>
 
   <!-- Cloud -->
-  <div style="background-color: #fff; color: #333; padding: 20px; border-radius: 8px; text-align: center; box-shadow: 0 4px 12px rgba(0,0,0,0.1);">
-    <h4>Cloud</h4>
-    <p>AWS (EC2, Lambda, S3)</p>
+  <div style="background-color: #FF9900; color: #fff; padding: 20px; border-radius: 8px; text-align: center; box-shadow: 0 4px 12px rgba(0,0,0,0.1);">
+    <h4>AWS</h4>
   </div>
 
   <!-- Database -->
-  <div style="background-color: #fff; color: #333; padding: 20px; border-radius: 8px; text-align: center; box-shadow: 0 4px 12px rgba(0,0,0,0.1);">
-    <h4>Database</h4>
-    <p>SQL</p>
+  <div style="background-color: #1E2A47; color: #fff; padding: 20px; border-radius: 8px; text-align: center; box-shadow: 0 4px 12px rgba(0,0,0,0.1);">
+    <h4>SQL</h4>
   </div>
+
 </div>
 
 <hr style="border-top: 1px solid #ffffff; margin-top: 30px; margin-bottom: 30px;">
@@ -67,4 +83,3 @@
     </div>
   </a>
 </div>
-
