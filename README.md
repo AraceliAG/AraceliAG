@@ -41,11 +41,14 @@
  <!-- <img src="https://img.icons8.com/color/48/000000/uipath.png" alt="UiPath" width="45"/>  -->
 
    <h3>Cloud</h3>
-  <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png" alt="AWS" width="45"/>
-<img src="https://img.icons8.com/color/48/000000/amazon-ec2.png" alt="AWS EC2" width="45"/>
-<img src="https://img.icons8.com/color/48/000000/amazon-lambda.png" alt="AWS Lambda" width="45"/>
-<img src="https://img.icons8.com/color/48/000000/amazon-s3.png" alt="AWS S3" width="45"/>
 
+<img src="https://img.icons8.com/color/48/000000/amazon-web-services.png" alt="AWS" width="45"/>
+<!-- AWS EC2 -->
+<img src="https://img.icons8.com/color/48/000000/amazon-ec2.png" alt="AWS EC2" width="45"/>
+<!-- AWS Lambda -->
+<img src="https://img.icons8.com/color/48/000000/amazon-lambda.png" alt="AWS Lambda" width="45"/>
+<!-- AWS S3 -->
+<img src="https://img.icons8.com/color/48/000000/amazon-s3.png" alt="AWS S3" width="45"/>
   <h3>Database</h3>
     <img src="https://img.icons8.com/color/48/000000/sql.png" alt="SQL" width="45"/>
 
