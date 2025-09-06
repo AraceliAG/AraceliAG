@@ -37,7 +37,7 @@
 <!-- Contribuciones y estadísticas -->
 <div style="text-align: center;">
   <h3>My GitHub Stats</h3>
-  <img src="https://github-readme-stats.vercel.app/api?username=tu-usuario&show_icons=true&theme=radical" alt="My GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=AraceliAG&show_icons=true&theme=radical" alt="My GitHub Stats">
   <hr style="border-top: 1px solid #ffffff; margin-top: 10px; margin-bottom: 10px;">
 </div>
 
@@ -48,12 +48,10 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <!-- Otros enlaces de redes sociales -->
-  <a href="https://github.com/tu-usuario" target="_blank">
+  <a href="https://github.com/AraceliAG" target="https://github.com/AraceliAG">
     <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
   </a>
-  <a href="https://www.twitter.com/tu-usuario" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
+ 
 </div>
 
 <!-- GitHub Activity -->
