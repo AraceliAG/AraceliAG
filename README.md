@@ -63,11 +63,13 @@
     <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
   </a>
 
-  <p align="center">
+
+ 
+</div>
+
+ <!--  <p align="center">
   <div id="header" align="center">
     <img src="https://media.giphy.com/media/HQHwvSBSy7s0AXOlWt/giphy.gif" width="200"/>
   </div>
 </p>
- 
-</div>
 
