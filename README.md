@@ -1,5 +1,4 @@
-<!-- Contenedor de bienvenida  -->
-<!-- Contenedor de bienvenida  -->
+
 
 <div style="background-color: #D8BFD8; color: #ffffff; padding: 20px; border-radius: 8px; margin-bottom: 100px;">
   <h1 align="center">WELCOME TO MY PROFILE!</h1>
@@ -20,35 +19,18 @@
    <img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png" alt="C#" width="45"/>
    <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" width="45"/>
   <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java" width="45"/>
-  <!--  <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++" width="45"/>
  
-
-  
-  
- 
-  
- 
-  <!--  <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js" width="45"/>-->
- <!-- <img src="https://img.icons8.com/color/48/000000/spring-logo.png" alt="Spring" width="45"/>-->
   <h3>Frameworks & Tools</h3>
   
    <img src="https://img.icons8.com/color/48/000000/angularjs.png" alt="Angular" width="45"/>
    <img src="https://img.icons8.com/color/48/000000/net-framework.png" alt=".NET" width="45"/>
    <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" width="45"/>
    
-
-  <!--   <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js" width="45"/>
- <!-- <img src="https://img.icons8.com/color/48/000000/uipath.png" alt="UiPath" width="45"/>  -->
-
    <h3>Cloud</h3>
 
 <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png" alt="AWS" width="45"/>
-<!-- AWS EC2 -->
-<img src="https://img.icons8.com/color/48/000000/amazon-ec2.png" alt="AWS EC2" width="45"/>
-<!-- AWS Lambda -->
-<img src="https://img.icons8.com/color/48/000000/amazon-lambda.png" alt="AWS Lambda" width="45"/>
-<!-- AWS S3 -->
-<img src="https://img.icons8.com/color/48/000000/amazon-s3.png" alt="AWS S3" width="45"/>
+
+
   <h3>Database</h3>
     <img src="https://img.icons8.com/color/48/000000/sql.png" alt="SQL" width="45"/>
 
