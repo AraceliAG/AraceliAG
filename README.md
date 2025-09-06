@@ -12,24 +12,35 @@
 
 <!-- Sección de tecnologías -->
 <div style="display: flex; flex-wrap: wrap; gap: 15px; align-items: center; justify-content: center;">
-  <h3>Programming Languages</h3>
-  <img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png" alt="C#" width="45"/>
-  <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" width="45"/>
-  <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java" width="45"/>
-  
-  <h3>Frameworks</h3>
-  <img src="https://img.icons8.com/color/48/000000/angularjs.png" alt="Angular" width="45"/>
-  <img src="https://img.icons8.com/color/48/000000/net-framework.png" alt=".NET" width="45"/>
-  
-  <h3>Tools</h3>
-  <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" width="45"/>
-  <img src="https://img.icons8.com/color/48/000000/linux.png" alt="Linux" width="45"/>
-  
-  <h3>Cloud</h3>
-  <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png" alt="AWS" width="45"/>
-  
-  <h3>Database</h3>
-  <img src="https://img.icons8.com/color/48/000000/sql.png" alt="SQL" width="45"/>
+ <h3>Programming Languages</h3>
+<div style="display: flex; flex-wrap: wrap; gap: 15px;">
+  <img src="https://img.shields.io/badge/C%23-2396ED?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
+</div>
+
+<h3>Frameworks</h3>
+<div style="display: flex; flex-wrap: wrap; gap: 15px;">
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular"/>
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white" alt=".NET"/>
+</div>
+
+<h3>Tools</h3>
+<div style="display: flex; flex-wrap: wrap; gap: 15px;">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/Linux-FFFFFF?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
+</div>
+
+<h3>Cloud</h3>
+<div style="display: flex; flex-wrap: wrap; gap: 15px;">
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS"/>
+</div>
+
+<h3>Database</h3>
+<div style="display: flex; flex-wrap: wrap; gap: 15px;">
+  <img src="https://img.shields.io/badge/SQL-00618C?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL"/>
+</div>
+
 </div>
 
 <hr style="border-top: 1px solid #ffffff; margin-top: 10px; margin-bottom: 10px;">
