@@ -55,7 +55,7 @@
 <!-- Conectar -->
 <h3 align="left">Connect with me:</h3>
 <div id="badges" style="text-align: center;">
-  <a href="www.linkedin.com/in/araceli-ag3" target="_blank">
+  <a href="www.linkedin.com/in/araceli-ag3" target="www.linkedin.com/in/araceli-ag3">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <!-- Otros enlaces de redes sociales -->
